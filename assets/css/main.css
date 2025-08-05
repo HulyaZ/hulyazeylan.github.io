@@ -2599,7 +2599,7 @@ table tr td
 /* Header */
 
 .scrollArea {
-	width: 70%;
+	width: 80%;
 	height: 60%;
 	overflow-y: scroll; /* Add the ability to scroll */
   }

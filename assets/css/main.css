@@ -2601,7 +2601,7 @@ table tr td
 .scrollArea {
 	width: 100%;
 	height: 60%;
-	
+	margin-bottom: 3rem;
 	overflow-y: scroll; /* Add the ability to scroll */
   }
   

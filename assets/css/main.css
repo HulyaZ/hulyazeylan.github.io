@@ -2599,8 +2599,9 @@ table tr td
 /* Header */
 
 .scrollArea {
-	width: 80%;
+	width: 200px;
 	height: 60%;
+	
 	overflow-y: scroll; /* Add the ability to scroll */
   }
   
@@ -3109,7 +3110,7 @@ table tr td
 					}
 
 				#header > .inner {
-					margin-bottom: 3rem;
+					margin-bottom: 0;
 				}
 
 		/* Footer */
